@@ -1,5 +1,3 @@
-# data_science_projects
-
 # Data Science Projects Readme
 
 ## 1. Image Captioning using ResNet + GRU and CNN+LSTM
